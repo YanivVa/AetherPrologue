@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "683756747589",
+    "firebase_url": "https://aether-prologue-e128e.firebaseio.com",
+    "project_id": "aether-prologue-e128e",
+    "storage_bucket": "aether-prologue-e128e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683756747589:android:9115787b41e84f2a",
+        "android_client_info": {
+          "package_name": "com.weeboo.aetherprologue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683756747589-pg0n0vus08h5rp9jqfjtvni3gdgfg9bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV1XYZF2JvHYp01w32yTovvAzE7qi9Ay4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

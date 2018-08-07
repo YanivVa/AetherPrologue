@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: b9ff0d0e3a508f042b8feb7749cfbdcb
+timeCreated: 1511958449
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fire_01b_0
+    21300002: fire_01b_1
+    21300004: fire_01b_2
+    21300006: fire_01b_3
+    21300008: fire_01b_4
+    21300010: fire_01b_5
+    21300012: fire_01b_6
+    21300014: fire_01b_7
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fire_01b_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 56}
+        - {x: -63, y: 23}
+        - {x: -64, y: 16}
+        - {x: -64, y: -56}
+        - {x: 64, y: -56}
+        - {x: 64, y: 56}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_01b_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 129
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -330, y: 52}
+        - {x: -334, y: 44}
+        - {x: -334, y: 42}
+        - {x: -338, y: 42}
+        - {x: -334, y: 43}
+        - {x: -333, y: 49}
+        - {x: -341, y: 52}
+        - {x: -479, y: 52}
+        - {x: -512, y: 26}
+        - {x: -512, y: -52}
+        - {x: 512, y: -52}
+        - {x: 512, y: 52}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_01b_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 126
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 473, y: 54}
+        - {x: -82, y: 54}
+        - {x: -117, y: 33}
+        - {x: -146, y: 54}
+        - {x: -480, y: 54}
+        - {x: -512, y: 28}
+        - {x: -512, y: -54}
+        - {x: 512, y: -54}
+        - {x: 512, y: 26}
+        - {x: 489, y: 50}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_01b_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 126
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -469, y: 60}
+        - {x: -512, y: 29}
+        - {x: -512, y: -60}
+        - {x: 512, y: -60}
+        - {x: 512, y: 24}
+        - {x: 487, y: 60}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_01b_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 133
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -501, y: 60}
+        - {x: -512, y: 55}
+        - {x: -512, y: -60}
+        - {x: 512, y: -60}
+        - {x: 512, y: 30}
+        - {x: 483, y: 60}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_01b_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 133
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -488, y: 58}
+        - {x: -512, y: 11}
+        - {x: -512, y: -58}
+        - {x: 512, y: -58}
+        - {x: 512, y: 32}
+        - {x: 498, y: 58}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_01b_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 131
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -488, y: 56}
+        - {x: -512, y: 23}
+        - {x: -512, y: -56}
+        - {x: 512, y: -56}
+        - {x: 512, y: 42}
+        - {x: 489, y: 56}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fire_01b_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 135
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -512, y: 56}
+        - {x: -512, y: -56}
+        - {x: 512, y: -56}
+        - {x: 512, y: 56}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Flappy Bird Style/_Scenes/Tutorial.unity
+  isLoaded: 1
+  isActive: 1
